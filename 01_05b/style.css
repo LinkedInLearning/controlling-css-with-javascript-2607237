@@ -26,15 +26,18 @@ body {
 }
 
 .animals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30ch, 1fr));
+  gap: 1rem;
+  list-style-type: none;
   margin: 0;
   padding: 0;
-  list-style-type: none;
 }
 
 .animals li {
-  margin-block-end: 1rem;
   font-size: 200%;
   font-weight: 600;
+  text-align: center;
 }
 
 .animals li a {
@@ -43,32 +46,8 @@ body {
   padding: 2rem;
   text-decoration: none;
   color: inherit;
-  border-radius: 2rem;
-  transition: color 0.3s;
-  transition: background-color 0.3s;
 }
 
 .animals li a:hover {
   text-decoration: underline;
-  background: black;
-  color: white;
-}
-
-.switcher {
-  margin-block-start: -1rem;
-  margin-block-end: 2rem;
-}
-
-.switcher button {
-  border: 3px solid black;
-  padding: 0.5rem 0.75rem;
-  font-size: 1rem;
-  font-weight: 700;
-  background: transparent;
-  color: black;
-}
-
-button.current {
-  background: black;
-  color: white;
 }
