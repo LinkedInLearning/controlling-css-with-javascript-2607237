@@ -9,7 +9,6 @@ body {
 }
 
 .masthead {
-  margin-block: 1rem;
   margin-inline: auto;
   max-inline-size: 70vw;
   display: flex;
@@ -18,6 +17,7 @@ body {
 
 .masthead h1 {
   font-size: 400%;
+  margin-block: 1rem;
 }
 
 .main-content {
