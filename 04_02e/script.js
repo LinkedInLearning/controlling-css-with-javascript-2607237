@@ -5,5 +5,5 @@ console.log(listItem.style.cssText);
 
 const styleSheet = document.styleSheets[0];
 console.log(styleSheet.cssRules[0].style.cssText);
-styleSheet.cssRules[0].style.setProperty("--border-color", "hsl(53, 100%, 50%)");
+styleSheet.cssRules[0].style.setProperty("--border-color", "blue");
 console.log(styleSheet.cssRules[0].style.cssText);
