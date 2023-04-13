@@ -1,10 +1,10 @@
-# [DE-Kursname hier eintragen]
+# CSS mit JavaScript steuern
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `CSS mit JavaScript steuern`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
+Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können." an, um zu erfahren, wie Sie anfangen können.  
 
 
 JavaScript hat vollen Zugriff auf das Markup einer Webseite (DOM) und die Stile einer Seite (CSSOM). Der Einsatz von JavaScript zur Interaktion mit und Manipulation des DOM ist gängige Praxis, aber die Verwendung von JavaScript zur Interaktion mit CSS ist eher die Ausnahme. In diesem Kurs taucht Florence Maurice tief in die Überschneidung von JavaScript und CSS ein, um zu sehen, was alles möglich ist: Sie erforscht die grundlegenden Manipulationen des CSSOM, um die Live-Styles einer Website zu ändern, betrachtet die neuen Möglichkeiten, die sich durch benutzerdefinierte Eigenschaften ergeben, und erkundet Konzepte wie Style-Token. Der Kurs zeigt, dass der Einsatz von JavaScript zur Steuerung von CSS die Tür zu interaktiveren Designs und besserer Benutzererfahrungen öffnet.
