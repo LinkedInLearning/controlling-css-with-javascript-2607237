@@ -2,46 +2,22 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
 
-## Anleitung
 
-Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
+JavaScript hat vollen Zugriff auf das Markup einer Webseite (DOM) und die Stile einer Seite (CSSOM). Der Einsatz von JavaScript zur Interaktion mit und Manipulation des DOM ist gängige Praxis, aber die Verwendung von JavaScript zur Interaktion mit CSS ist eher die Ausnahme. In diesem Kurs taucht Florence Maurice tief in die Überschneidung von JavaScript und CSS ein, um zu sehen, was alles möglich ist: Sie erforscht die grundlegenden Manipulationen des CSSOM, um die Live-Styles einer Website zu ändern, betrachtet die neuen Möglichkeiten, die sich durch benutzerdefinierte Eigenschaften ergeben, und erkundet Konzepte wie Style-Token. Der Kurs zeigt, dass der Einsatz von JavaScript zur Steuerung von CSS die Tür zu interaktiveren Designs und besserer Benutzererfahrungen öffnet.
 
-## Branches
+Zu den Übungsaufgaben liefert Ihre Trainerin gleich die passende Lösung, doch können Sie Ihren Lösungsweg auch ganz leicht mitprogrammieren und testen, denn dieser Kurs zeichnet sich durch eine nahtlose Integration in GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus. Sie müssen keinen lokalen Rechner einrichten und können direkt zu jeder Zeit praktische Übungen durchführen.
 
-Die Git Branches sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#_Video#`. Der Branch `02_03` beinhaltet zum Beispiel die Übungen für das dritte Video im zweiten Kapitel. 
-Einige Branches haben einen Anfangsstatus (`b`) für "beginning" und einen Endstatus (`e`). Der Branch mit dem `e` am Ende beinhaltet in diesem Fall stets den Code der am Ende des Videos zu sehen ist. Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die Übungen innerhalb des Kurses genutzt.
+## Autorin
+**Florence Maurice**
 
-Wenn Sie von einem Branch nach Änderungen zum nächsten Branch wechseln, erhalten Sie möglicherweise die folgende Meldung:
+_Autorin und Trainerin_
 
-```
-error: Your local changes to the following files would be overwritten by checkout:        [files]
-Please commit your changes or stash them before you switch branches.
-Aborting
-```
-
-Dieses Problem lösen Sie wie folgt:
-    Add changes to git using this command: git add .
-    Commit changes using this command: git commit -m "some message"
-
-## Installation
-
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
-
-### Autor
-
-**[Name hier eintragen]**
-
-_[Berufsbezeichnung hier eintragen]_
-
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse der Autorin auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/florence-maurice) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/css-mit-javascript-steuern
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQE6t-1edpK8rw/learning-public-crop_675_1200/0/1681365898666?e=2147483647&v=beta&t=uH9JS_B86lXjb5KyE36XHnBgh7IWaFPV9oMtqLasa7Y
